@@ -1,0 +1,2 @@
+# Dining-Philosophers
+This code was designed to understand how to better protect resources under concurrency. It was an implementation of the Banker's algorithm while understanding the computer's resources as chopsticks for our dining philosophers. It implements code in C++ while dealing with threads in C due to the ease of C's interactions with threads. The code for CV< Lock, and Thread were all provided to me, while the Server and ServerandBankerMain were mine.
